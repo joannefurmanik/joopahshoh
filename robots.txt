@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://alingeiyu.waldecks.co/sitemap.xml
